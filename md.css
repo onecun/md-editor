@@ -1,0 +1,20 @@
+code {
+    display: block;
+    background-color: green;
+    color: white;
+    padding: 6px;
+    font-size: 16px;
+    font-style: italic
+}
+
+blockquote {
+    border-left: 6px solid lightblue;
+}
+
+hr {
+    border-width: 2px;
+}
+
+a {
+    text-decoration: none;
+}
